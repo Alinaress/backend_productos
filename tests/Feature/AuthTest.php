@@ -10,7 +10,7 @@ use App\Models\User;
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Hash;
 
-
+ 
 class AuthTest extends TestCase
 {
     use RefreshDatabase;
